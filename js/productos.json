@@ -1,0 +1,112 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Sombrero fachero",
+        "imagen": "./img/abrigos/01.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "Abrigo-02",
+        "titulo": "Gallina",
+        "imagen": "./img/abrigos/02.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1500
+    },
+    {
+    "id": "Abrigo-03",
+    "titulo": "Florcita",
+    "imagen": "./img/abrigos/03.jpg",
+    "categoria": {
+        "nombre": "Abrigos",
+        "id": "abrigos"
+    },
+    "precio": 1000
+    },
+    {
+        "id": "Abrigo-04",
+        "titulo": "Palmera",
+        "imagen": "./img/abrigos/04.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1700
+    },
+    {
+        "id": "Abrigo-05",
+        "titulo": "Cumpleaños",
+        "imagen": "./img/abrigos/05.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigo"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "Jean-01",
+        "titulo": "Jean original",
+        "imagen": "./img/pantalones/01.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "Jean-02",
+        "titulo": "Jean trucho",
+        "imagen": "./img/pantalones/02.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Armamento-01",
+        "titulo": "Tortuga ninja",
+        "imagen": "./img/armamento/01.jpg",
+        "categoria": {
+            "nombre": "Armamento",
+            "id": "armamento"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "Armamento-02",
+        "titulo": "Casco",
+        "imagen": "./img/armamento/02.jpg",
+        "categoria": {
+            "nombre": "Armamento",
+            "id": "armamento"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "Armamento-03",
+        "titulo": "Tortuga cañon",
+        "imagen": "./img/armamento/03.jpg",
+        "categoria": {
+            "nombre": "Armamento",
+            "id": "armamento"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "Armamento-04",
+        "titulo": "Tortuga bombero",
+        "imagen": "./img/armamento/04.jpg",
+        "categoria": {
+            "nombre": "Armamento",
+            "id": "armamento"
+        },
+        "precio": 3500
+    }
+]
