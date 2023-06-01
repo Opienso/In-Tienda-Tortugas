@@ -24,7 +24,7 @@ comprar.addEventListener("click", () => {
     Swal.fire({
         title: 'Realizado!',
         text: 'Gracias por tu compra!',
-        imageUrl: './img/feliz.gif',
+        imageUrl: './img/turtle_2.gif',
         imageWidth: 270,
         imageHeight: 429,
         imageAlt: 'Custom image',

@@ -20,14 +20,14 @@
         "precio": 1500
     },
     {
-    "id": "Abrigo-03",
-    "titulo": "Florcita",
-    "imagen": "./img/abrigos/03.jpg",
-    "categoria": {
-        "nombre": "Abrigos",
-        "id": "abrigos"
-    },
-    "precio": 1000
+        "id": "Abrigo-03",
+        "titulo": "Florcita",
+        "imagen": "./img/abrigos/03.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1000
     },
     {
         "id": "Abrigo-04",

@@ -1,9 +1,11 @@
 //// OBJETOS - productos
+let productos = [];
 
 fetch("./js/productos.json")
     .then(response => response.json())
     .then(data => {
-        cargarProductos(data);
+        productos = data;
+        cargarProductos(productos);
     })
 
 //// Mis variables con NODOS ewe...
@@ -16,6 +18,7 @@ const numeroCarrito = document.querySelector(".numerito")
 
 
 //// Esto hace que se resalten los botonsitos owo
+
 
 botonesCategorias.forEach(boton => {
     boton.addEventListener("click", (e) => {
@@ -43,9 +46,9 @@ botonesCategorias.forEach(boton => {
                 `;
                 contenedorProductos.append(div);
             })
-            BotonAgregarCarrito();
+            BotonAgregarCarrito(productos);
         }else{
-            cargarProductos()
+            cargarProductos(productos)
         }
     })
 })
